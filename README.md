@@ -1,3 +1,3 @@
 # prac-docker
 
-Partice repository for Docker Automated Build
+Pratice repository for Docker Automated Build
